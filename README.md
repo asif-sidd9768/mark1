@@ -2,7 +2,7 @@
 
 It has few basic questions related to me, you can answer then and check if **you know me or not**?
 
-> **NOTE** : It's a CLI app.
+> **NOTE** : It's a CLI App.
 
 ## Tech stack
 > Javascript
